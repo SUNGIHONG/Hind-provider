@@ -1,3 +1,3 @@
 # Hind-provider
 
-Hangman Game Hint Provider(cpp)
+Brief Hangman game hint provider(cpp)
